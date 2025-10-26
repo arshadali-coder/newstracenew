@@ -51,3 +51,4 @@ pandas
 matplotlib
 networkx
 spacy
+gunicorn
